@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,51757,e=>{"use strict";var t=e.i(16933);e.s(["CheckCircle2",()=>t.default])}]);
